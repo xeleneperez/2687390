@@ -1,6 +1,6 @@
 import java.io.EOFException;
 import java.util.Scanner;
-public class Calculator  {
+public class Calculadora  {
 
     public static void main(String[]args)throws EOFException{
         Scanner lectura=new Scanner(System.in);
