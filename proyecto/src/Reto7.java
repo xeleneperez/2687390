@@ -13,39 +13,39 @@ if (valor<=50000){
 switch (colors){
     case 1:
     System.out.println("obtuviste el 10% de descuento en el valor de tu compra");
-    total=valor-(valor*100)/10;
+    total=valor-(valor*10)/100;
     break;
     case 2:
     System.out.println("obtuviste el 30% en el valor de tu compra");
-    total=valor*100/30;
+    total=valor-(valor*30)/100;
     break;
     case 3:
     System.out.println("obtuviste el 30% en el valor de tu compra");
-    total=valor-(valor*100)/30;
+    total=valor-(valor*30)/100;
     break;
     case 4:
     System.out.println("obtuviste el 30% en el valor de tu compra");
-    total=valor-(valor*100)/30;
+    total=valor-(valor*30)/100;
     break;
     case 5:
     System.out.println("obtuviste el 50% en el valor de tu compra");
-    total=valor-(valor*100)/50;
+    total=valor-(valor*50)/100;
     break;
     case 6:
     System.out.println("obtuviste el 50% en el valor de tu compra");
-    total=valor-(valor*100)/50;
+    total=valor-(valor*50)/100;
     break;
     case 7:
     System.out.println("obtuviste el 50% en el valor de tu compra");
-    total=valor-(valor*100)/50;
+    total=valor-(valor*50)/100;
     break;
     case 8:
     System.out.println("obtuviste el 50% en el valor de tu compra");
-    total=valor-(valor*100)/50;
+    total=valor-(valor*50)/100;
     break;
     case 9:
     System.out.println("obtuviste el 50% en el valor de tu compra");
-    total=valor-(valor*100)/50;
+    total=valor-(valor*50)/100;
     break;
     case 10:
     System.out.println("tu compra es gratis felicidades!!");

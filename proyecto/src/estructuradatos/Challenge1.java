@@ -10,7 +10,7 @@ int promedio,notas,cantidad;
         cantidad=lectura.nextInt();
         System.out.println("ingrese el valor de las notas");
 notas=lectura.nextInt();
-     promedio=notas+ 
+     promedio=notas;
 notas=lectura.nextInt();
 
         int[]vector1;

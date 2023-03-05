@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class Budget {
+public class Buget {
     public static void main(String[] args) throws Exception {
         Scanner lectura = new Scanner(System.in);
        double ancho, largo , presupuesto,area;
